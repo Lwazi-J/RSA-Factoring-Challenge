@@ -30,4 +30,3 @@ def factorize():
 
 
 factorize()
-
